@@ -73,4 +73,24 @@ A **Sim Racing Morocco** project 🇲🇦. Join us:
 **[SRM Lab Discord](https://discord.gg/quRg8RG46t)** · **[simracingmorocco.com](https://simracingmorocco.com/)**
 
 ---
+
+## 🙏 Crédits / Open-source credits
+
+SRM Lab s'appuie sur ces projets open-source, avec toute notre gratitude —
+*SRM Lab is built on these open-source projects, with our gratitude:*
+
+| Projet | Rôle dans SRM Lab | Licence |
+|---|---|---|
+| [Electron](https://www.electronjs.org/) | Fenêtre overlay transparente / desktop host | MIT |
+| [electron-builder](https://www.electron.build/) · [electron-updater](https://www.electron.build/auto-update) | Installeur Windows + auto-update | MIT |
+| [pyirsdk](https://github.com/kutu/pyirsdk) | Lecture du SDK iRacing officiel (Python) | MIT |
+| [edge-tts](https://github.com/rany2/edge-tts) | Voix neuronales de l'ingénieur de course | GPL-3.0 |
+| [Nuitka](https://nuitka.net/) | Compilation du serveur Python | Apache-2.0 |
+| [javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) | Protection du code client | BSD-2-Clause |
+| [irDashies](https://github.com/tariknz/irdashies) | Référence pour la géométrie de la track map | MIT |
+
+Merci également à **iRacing** pour son SDK officiel. *Not affiliated with or
+endorsed by iRacing.*
+
+---
 © 2026 Amine Chaffoui (SRM Lab) — Tous droits réservés / All rights reserved. Voir / See [LICENSE](LICENSE).

@@ -29,7 +29,7 @@ Le radar de proximité est **volontairement laissé désactivé** pour l'instant
 cause de certains bugs et du fait qu'iRacing **ne partage pas toutes les
 informations** nécessaires, je préfère ne pas le livrer tant que je n'ai pas
 trouvé une meilleure solution. Un radar du même type que celui d'iRacing pourra
-être ajouté si besoin — mais je préfère le laisser vide tant que je n'ai pas de
+être ajouté si besoin, mais je préfère le laisser vide tant que je n'ai pas de
 réponse solide, plutôt que de sortir quelque chose de bancal.
 
 ## Communauté

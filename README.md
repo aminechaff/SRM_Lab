@@ -76,8 +76,8 @@ A **Sim Racing Morocco** project 🇲🇦. Join us:
 
 ## 🙏 Crédits / Open-source credits
 
-SRM Lab s'appuie sur ces projets open-source, avec toute notre gratitude —
-*SRM Lab is built on these open-source projects, with our gratitude:*
+SRM Lab s'appuie sur ces projets open-source /
+*SRM Lab is built on these open-source projects :*
 
 | Projet | Rôle dans SRM Lab | Licence |
 |---|---|---|

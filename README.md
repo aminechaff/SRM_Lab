@@ -65,7 +65,7 @@ multi-monitor support.
 The proximity radar is **intentionally left disabled** for now: because of some
 bugs and the fact that iRacing **does not expose all the data** it needs, I'd
 rather not ship it until I find a better solution. An iRacing-style radar can be
-added if needed — but I prefer to leave it empty until I have a solid answer,
+added if needed, but I prefer to leave it empty until I have a solid answer,
 rather than release something unreliable.
 
 ### Community
